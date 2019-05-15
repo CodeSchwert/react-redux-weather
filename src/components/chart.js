@@ -16,4 +16,4 @@ export default (props) => {
       <div>{average(props.data)} {props.units}</div>
     </div>
   );
-}
+};
